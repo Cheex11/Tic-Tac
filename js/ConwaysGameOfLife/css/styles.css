@@ -1,0 +1,30 @@
+
+
+table{
+  table-layout: fixed;
+}
+tr {
+  height: 20px;
+}
+td {
+  height:20px;
+  width:20px;
+  line-height: 16px;
+  border:1px solid black;
+  font-size:12px;
+  color:white;
+  border:1px solid white;
+  text-align: center;
+}
+body{
+  background-color:black;
+}
+
+h1 {
+  color: green;
+  text-decoration: underline;
+}
+
+p {
+  color: white;
+}
